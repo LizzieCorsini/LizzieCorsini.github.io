@@ -56,15 +56,15 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+/* Change the link color to #111 (black) on hover 
 li a:hover {
     background-color: #111;
 }
 /*HERO IMAGE*/
-.hero{
+.hero {
   min-width:10%;
   height: 350px;
-  background: url(./img/teleus dots.png);
+  background: url(./img/teleus-dots.png);
   background-size: cover;
   background-repeat: none;
 
@@ -73,7 +73,7 @@ li a:hover {
   align-items: center;
 }
 .hero h1 {
-  color: #FFF;
+  color: grey;
   margin: 0;
   font-size: 100px;
   font-family: 'Fredericka the Great', cursive; 
