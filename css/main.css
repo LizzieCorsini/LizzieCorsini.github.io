@@ -112,3 +112,9 @@ li a:hover {
 
 .footer-div {
   background-color: gray; }
+
+  /*MODAL*/
+
+.hidden-bio {
+  display: none;
+}
