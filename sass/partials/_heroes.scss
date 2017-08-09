@@ -19,13 +19,18 @@
 }
 
 .hero--dots {
-	background: url(../img/teleus-dots.png);
+	background: url(../img/t-dots-bkground.png);
+	@include hero;
+}
+
+.hero--dotstwo {
+	color: #fff !important;
+	background: url(../img/t-dots-bkground2.png);
 	@include hero;
 }
 
 .hero--logo {
-	color: #fff !important;
-	background: url(../img/galaxy.jpeg);
+	background: url(../img/t-logo.png);
 	@include hero;
 }
 
